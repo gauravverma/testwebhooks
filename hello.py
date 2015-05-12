@@ -1,1 +1,1 @@
-print "Hello World Red"
+print "Hello World Yellow"
